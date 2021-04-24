@@ -1,0 +1,92 @@
+contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+body {
+    text-align: center;
+  background: rgb(255,191,231);
+background: -moz-linear-gradient(317deg, rgba(255,191,231,1) 12%, rgba(247,246,196,1) 42%, rgba(158,251,255,1) 64%, rgba(181,255,158,1) 88%);
+background: -webkit-linear-gradient(317deg, rgba(255,191,231,1) 12%, rgba(247,246,196,1) 42%, rgba(158,251,255,1) 64%, rgba(181,255,158,1) 88%);
+background: linear-gradient(317deg, rgba(255,191,231,1) 12%, rgba(247,246,196,1) 42%, rgba(158,251,255,1) 64%, rgba(181,255,158,1) 88%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffbfe7",endColorstr="#b5ff9e",GradientType=1);
+}
+
+
+
+
+#achievementsID{
+    padding-bottom: 10px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display:inline-block;
+}
+
+.movie_head i{
+  float: right;  
+}
+.movie_text span{
+    color: #ff7700;
+}
+.food1 {
+    cursor: pointer;
+}
+
+.food1 hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+
+}
+
+.img_modal {
+    display: inline-block;
+
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
